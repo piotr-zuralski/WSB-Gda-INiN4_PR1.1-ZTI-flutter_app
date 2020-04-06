@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "183530976605",
+    "firebase_url": "https://wsb-gda-zti.firebaseio.com",
+    "project_id": "wsb-gda-zti",
+    "storage_bucket": "wsb-gda-zti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183530976605:android:5da601773ac824fdaf64b4",
+        "android_client_info": {
+          "package_name": "net.zuralski.wsbflutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183530976605-8h9kdk1n4u4uqaip46tnc3jo30hjekh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.zuralski.wsbflutterapp",
+            "certificate_hash": "38b1ec97ba1763582c2c0f43d509cf48a8518eef"
+          }
+        },
+        {
+          "client_id": "183530976605-pidjo49crcq6ognbgfvis2914uabl7jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQJDX-GCbRiSIWXQP00ahguATxJi_TBNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183530976605-pidjo49crcq6ognbgfvis2914uabl7jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
